@@ -19,13 +19,15 @@ Although melanoma is the least common skin cancer, it accoutns for nearly 75% of
 
 
 ## The Problem We Investigated
-* 
+*The first step in identifying whether or not a skin lesion is malignant or benign is to conduct a skin biopsy. In this procedure, the dermatologist takes a portion of the skin lesion and scrutinizes it under a microscope. This process can take nearly a week or beyond, and begins with the patient scheduling a dermatologist appointment to get this report. This project aims to reduce the waiting time to merely a few days by providing the predicitve model through **Computer-Aided Diagnosis (CAD)**. This project utilipzes **Convolutional Neural Network (CNN)** to classify nine types of skin cancer through outlier lessions images. 
 
 
 
-*The first step to identify whether the skin lesion is malignant or benign for a dermatologist is to do a skin biopsy. In the skin biopsy, the dermatologist takes some part of the skin lesion and examines it under the microscope. The current process takes almost a week or more, starting from getting a dermatologist appointment to getting a biopsy report. This project aims to shorten the current gap to just a couple of days by providing the predictive model using **Computer-Aided Diagnosis (CAD)**. The approach uses **Convolutional Neural Network (CNN)** to classify nine types of skin cancer from outlier lesions images. This reduction of a gap has the opportunity to impact millions of people positively.*
+
 
 ## Motivation
+
+
 The overarching goal is to support the efforts to reduce the death caused by skin cancer. The primary motivation that drives the project is to use the advanced image classification technology for the well-being of the people. Computer vision has made good progress in machine learning and deep learning that are scalable across domains. With the help of this project, we want to reduce the gap between diagnosing and treatment. Successful completion of the project with higher precision on the dataset could better support the dermatological clinic work. The improved accuracy and efficiency of the model can aid to detect melanoma in the early stages and can help to reduce unnecessary biopsies.
 
 ## Application
